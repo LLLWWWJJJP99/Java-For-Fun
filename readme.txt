@@ -1,4 +1,4 @@
-This repositary contains some toy programs to practice Java.
+This repositary contains some toy programs to practice Java. I have fun with these projects and get some practice for socket programming, which helps me to prepare for the upcoming projects in Advanced Operating System and Distributed System course ;D.
 
 1. Implemented a multi thread downloader
 2. Implemented Rudimentary Multi-User Chat Room
